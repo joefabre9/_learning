@@ -12,10 +12,9 @@ export default function Counter() {
 
     return (
         <>
-            <span>Counter: {}</span>
+            <span>Counter: {}</span> <br/>
             <Button label ="+" onClick={()=> handlerOnClick("ADD")} backgroundColor="Green" />
             <Button label ="-" onClick={()=> handlerOnClick} backgroundColor="Red" />
         </>
     );
-
 }
