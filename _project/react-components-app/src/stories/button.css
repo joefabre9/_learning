@@ -3,7 +3,7 @@
   font-weight: 700;
   border: 0;
   border-radius: 3em;
-  cursor: pointer;
+  cursor: crosshair;
   display: inline-block;
   line-height: 1;
 }
